@@ -1,0 +1,9 @@
+.py{
+    margin: 25px;
+    border: 1px;
+    border-style: inset;
+    border-color: red;
+    outline-offset: 12px;
+    outline-color: aqua;
+    outline-style: solid;
+}
